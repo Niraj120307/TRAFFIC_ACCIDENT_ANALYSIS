@@ -1,0 +1,9 @@
+venv/
+data/raw/
+data/*.csv
+models/*.pkl
+outputs/
+__pycache__/
+*.pyc
+.env
+.DS_Store
