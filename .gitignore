@@ -6,4 +6,5 @@ outputs/
 __pycache__/
 *.pyc
 .env
-.DS_Store
+.DS_Storedata/clean_accidents.parquet 
+data/clean_accidents.parquet 
