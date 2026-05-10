@@ -8,3 +8,4 @@ __pycache__/
 .env
 .DS_Storedata/clean_accidents.parquet 
 data/clean_accidents.parquet 
+data/clean_accidents.parquet 
